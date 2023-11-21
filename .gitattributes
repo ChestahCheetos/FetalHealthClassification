@@ -1,0 +1,6 @@
+env/Library/bin/mkl_intel_thread.1.dll filter=lfs diff=lfs merge=lfs -text
+env/Library/bin/mkl_pgi_thread.1.dll filter=lfs diff=lfs merge=lfs -text
+env/Library/bin/libclang.dll filter=lfs diff=lfs merge=lfs -text
+env/Library/bin/mkl_avx512.1.dll filter=lfs diff=lfs merge=lfs -text
+env/Library/bin/mkl_core.1.dll filter=lfs diff=lfs merge=lfs -text
+env/Library/bin/Qt5WebEngineCore_conda.dll filter=lfs diff=lfs merge=lfs -text
